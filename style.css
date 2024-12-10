@@ -195,7 +195,6 @@ span {
     margin-bottom: 5rem;
 }
 
-
 .cursos-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
